@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am new to GitHub and currently working with it for classes in my pursuit of my Bachelor's in Computer Science.
+
+Currently, I am taking Algorithms and Functional Programming, using JavaScript and SCALA for the first time in each class, respectively.
+
+I have used a variety of other programming languages to varying degrees of detail, including Visual Basic, Python, and C++. 
+
 <!--
 **Boomboomyoyo/Boomboomyoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
